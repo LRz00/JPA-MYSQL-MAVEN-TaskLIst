@@ -1,0 +1,17 @@
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/ExceptionHandler/TarefaExceptions.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Facade/TarefasFachadas.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/view/Tela1.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/main/MyMain.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Models/Tarefas.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Instancias/TarefaDaoInstance.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Instancias/TarefaInstance.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/DAO/TarefasDao.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/DAO/GenericDAO.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Models/AbstractEntity.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/DAO/ITarefasDao.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/view/Tela3.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Service/ITarefaService.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/view/Tela2.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Facade/ITarefasFachadas.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Service/TarefaService.java
+/home/lara/NetBeansProjects/Teste/src/main/java/br/com/ifba/JPATeste/Instancias/EMFInstance.java
