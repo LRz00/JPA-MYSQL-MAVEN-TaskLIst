@@ -1,8 +1,8 @@
 # Java Task Management Application
-![Java](https://img.shields.io/badge/Java-8%2B-blue)
-![Maven](https://img.shields.io/badge/Maven-3.6%2B-blue)
-![Hibernate](https://img.shields.io/badge/Hibernate-5.4%2B-blue)
-![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-orange)
 
 This is a simple Java application for managing tasks. It allows users to create, view, update, and delete tasks. The application uses Java Persistence API (JPA) and Hibernate for database operations and features a graphical user interface (GUI) built with Swing.
